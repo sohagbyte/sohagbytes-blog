@@ -1,5 +1,5 @@
 ---
-title: "Syntax in JavaScript - Bangla"
+title: "জাভাস্ক্রিপ্ট সিনট্যাক্স"
 seoTitle: "Javascript syntax in bangla"
 seoDescription: "আমরা জাভাস্ক্রিপ্টে যখন কোনো কোড লিখি বা প্রোগ্রামিং করি, তখন কিছু রুলস বা নিয়ম মেনেই আমাদের কোড লিখতে হয় যেইটাকে সোজা বাংলা ভাষায় Syntax বলে। "
 datePublished: Wed Feb 28 2024 07:28:54 GMT+0000 (Coordinated Universal Time)
